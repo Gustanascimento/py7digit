@@ -14,7 +14,3 @@ for palavra in lista_palavras:
     palavra_mais_longa = palavra   # Palavra não possui nenhum caractere proibido e é a mais longa!
 
 print(palavra_mais_longa)
-
-
-
-
